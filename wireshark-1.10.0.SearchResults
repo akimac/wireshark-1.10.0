@@ -1,0 +1,38 @@
+---- GtkTextBuffer Matches (37 in 15 files) ----
+addr_resolution_dlg.c (ui\gtk):  GtkTextBuffer *buffer;
+addr_resolution_dlg.c (ui\gtk):  GtkTextBuffer *buffer;
+addr_resolution_dlg.c (ui\gtk):  GtkTextBuffer *buffer;
+addr_resolution_dlg.c (ui\gtk):addres_resolution_to_texbuff(GtkTextBuffer *buffer)
+addr_resolution_dlg.c (ui\gtk):    GtkTextBuffer *buffer;
+capture_dlg.c (ui\gtk):  GtkTextBuffer *buffer;
+capture_dlg.c (ui\gtk):  GtkTextBuffer        *buffer;
+edit_packet_comment_dlg.c (ui\gtk):  GtkTextBuffer *buffer;
+edit_packet_comment_dlg.c (ui\gtk):  GtkTextBuffer *buffer;
+edit_packet_comment_dlg.c (ui\gtk):  GtkTextBuffer *buffer;
+edit_packet_comment_dlg.c (ui\gtk):  GtkTextBuffer *buffer = NULL;
+firewall_dlg.c (ui\gtk):    GtkTextBuffer *buf = gtk_text_view_get_buffer(GTK_TEXT_VIEW(rule_info->text));
+firewall_dlg.c (ui\gtk):    GtkTextBuffer *buf;
+firewall_dlg.c (ui\gtk):    GtkTextBuffer *buf;
+follow_stream.c (ui\gtk):	GtkTextBuffer *buf = gtk_text_view_get_buffer(GTK_TEXT_VIEW(text));
+follow_stream.c (ui\gtk):	GtkTextBuffer *buf;
+follow_stream.c (ui\gtk):	GtkTextBuffer	*buffer;
+funnel_stat.c (ui\gtk):    GtkTextBuffer *buf;
+funnel_stat.c (ui\gtk):    GtkTextBuffer *buf;
+funnel_stat.c (ui\gtk):    GtkTextBuffer *buf;
+funnel_stat.c (ui\gtk):    GtkTextBuffer *buf;
+packet_list.c (ui\gtk):packet_list_return_all_comments(GtkTextBuffer *buffer)
+packet_list.h (ui\gtk):void packet_list_return_all_comments(GtkTextBuffer *buffer);
+prefs_font_color.c (ui\gtk):  GtkTextBuffer *buf;
+prefs_font_color.c (ui\gtk):  GtkTextBuffer *buf;
+rlc_lte_graph.c (ui\gtk):    GtkTextBuffer *buf;
+summary_dlg.c (ui\gtk):  GtkTextBuffer *buffer;
+summary_dlg.c (ui\gtk):  GtkTextBuffer     *buffer = NULL;
+summary_dlg.c (ui\gtk):summary_to_texbuff(GtkTextBuffer *buffer)
+summary_dlg.c (ui\gtk):  GtkTextBuffer *buffer;
+summary_dlg.c (ui\gtk):  GtkTextBuffer *buffer;
+summary_dlg.h (ui\gtk):void summary_to_texbuff(GtkTextBuffer *buffer);
+supported_protos_dlg.c (ui\gtk):    GtkTextBuffer *buf= gtk_text_view_get_buffer(GTK_TEXT_VIEW(w));
+supported_protos_dlg.c (ui\gtk):  GtkTextBuffer *buf = gtk_text_view_get_buffer(GTK_TEXT_VIEW(w));
+tcp_graph.c (ui\gtk):    GtkTextBuffer *buf;
+text_page_utils.c (ui\gtk):    GtkTextBuffer *buf= gtk_text_view_get_buffer(GTK_TEXT_VIEW(txt));
+text_page_utils.c (ui\gtk):  GtkTextBuffer *buf = gtk_text_view_get_buffer(GTK_TEXT_VIEW(g_object_get_data(G_OBJECT(page), TEXT_KEY)));
